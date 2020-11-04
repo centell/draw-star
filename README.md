@@ -5,4 +5,4 @@
 그런데 그냥 하면 재미없으니까 반짝거리게 했다가 회전시켜봄
 
 
-[![Video Label](./resources/star.png)](./resources/star.mov)
+[![Video Label](./resources/star.png)](https://raw.githubusercontent.com/centell/draw-star/main/resources/star.mov)
